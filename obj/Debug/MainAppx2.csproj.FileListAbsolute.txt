@@ -1,0 +1,7 @@
+C:\Users\bc8681\source\repos\MainAppx2\bin\Debug\MainAppx2.exe.config
+C:\Users\bc8681\source\repos\MainAppx2\bin\Debug\MainAppx2.exe
+C:\Users\bc8681\source\repos\MainAppx2\bin\Debug\MainAppx2.pdb
+C:\Users\bc8681\source\repos\MainAppx2\obj\Debug\MainAppx2.csprojAssemblyReference.cache
+C:\Users\bc8681\source\repos\MainAppx2\obj\Debug\MainAppx2.csproj.CoreCompileInputs.cache
+C:\Users\bc8681\source\repos\MainAppx2\obj\Debug\MainAppx2.exe
+C:\Users\bc8681\source\repos\MainAppx2\obj\Debug\MainAppx2.pdb
